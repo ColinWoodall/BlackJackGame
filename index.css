@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 25;
+    background-image: url('img/Felt.jpeg');
+    background-size: cover;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 50;
+    padding-top: 50px;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+
+button {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: goldenrod;
+    border: none;
+    border-radius: 50px;
+    box-shadow: 2px 2px 4px #000000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 275px;
+    color: #016f32;
+    font-weight: bold;
+    font-size: 18;
+    cursor: pointer;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
